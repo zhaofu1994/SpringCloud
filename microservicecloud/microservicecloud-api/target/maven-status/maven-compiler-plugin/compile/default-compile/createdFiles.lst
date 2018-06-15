@@ -1,0 +1,4 @@
+com\zf\springcloud\service\DeptClientServiceFallbackFactory.class
+com\zf\springcloud\entity\Dept.class
+com\zf\springcloud\service\DeptClientServiceFallbackFactory$1.class
+com\zf\springcloud\service\DeptClientService.class

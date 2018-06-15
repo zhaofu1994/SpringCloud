@@ -1,0 +1,5 @@
+com\zf\myrule\MySelfRule.class
+com\zf\springcloud\DeptConsumer8086_App.class
+com\zf\myrule\RandomRule_ZY.class
+com\zf\springcloud\cfgbeans\ConfigBean.class
+com\zf\springcloud\controller\DeptController_Consumer.class
